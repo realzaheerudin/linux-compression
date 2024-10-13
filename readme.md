@@ -35,6 +35,12 @@ We will create both types and see what differences there are.
 
 Use the three test files from Moodle (PDF, executable, and TIFF image). You will need to have the same files available in both Windows and Linux.
 
+**Files:**
+
+- [executable-file.exe](executable-file.exe)
+- [image-file.tif](image-file.tif)
+- [large-pdf-file.pdf](large-pdf-file.pdf)
+
 Create **THREE** archive files as follows, each containing the three files:
 
 1. On Linux: tar archive of the files, then compress the archive with xz => `.tar.xz` file
